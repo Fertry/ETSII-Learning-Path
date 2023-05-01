@@ -7,7 +7,6 @@ Colección de asignaturas de la Escuela Técnica Superior de Ingeniería Inform�
 * <a href="https://github.com/Fertry/ProyectosETSIIJava">![Fundamentos de Programación - Java](https://github.com/Fertry/ETSII-Learning-Path/blob/main/imgs/FP.png)</a>
 * <a href="https://github.com/Fertry/ProyectosETSIIPython">![Fundamentos de Programación - Python](https://github.com/Fertry/ETSII-Learning-Path/blob/main/imgs/FP.png)</a>
 * <a href="https://github.com/Fertry/SageMath_ALN">![Álgebra Lineal y Numérica](https://github.com/Fertry/ETSII-Learning-Path/blob/main/imgs/ALN.png)</a>
-* <a href="https://github.com/Fertry/ProyectosETSIIR">![Estadística](https://github.com/Fertry/ETSII-Learning-Path/blob/main/imgs/E.png)</a>
 
 
 ### Segundo curso :two:
