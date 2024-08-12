@@ -22,8 +22,8 @@ Colección de asignaturas de la Escuela Técnica Superior de Ingeniería Inform�
 
 ### Tercer curso :three:
 
-* <a href="https://github.com/ETSIIWorkgroup">Inteligencia Artificial</a>
-* <a href="https://github.com/ETSIIWorkgroup">Programación Declarativa</a>
+* <a href="https://github.com/ETSIIWorkgroup/Python_IA">Inteligencia Artificial</a>
+* <a href="https://github.com/ETSIIWorkgroup/Haskell_PD">Programación Declarativa</a>
 * <a href="https://github.com/ETSIIWorkgroup/ASD">Arquitectura de Sistemas Distribuidos</a>
 * <a href="https://github.com/Fertry/SIE">Sistemas de Información Empresariales</a>
 * <a href="https://github.com/Fertry/GSI">Gestión de Sistemas de Información</a>
